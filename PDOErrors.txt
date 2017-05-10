@@ -1,0 +1,2 @@
+01-06-2013 19:01:37 - SQLSTATE[HY000] [2005] Unknown MySQL server host 'localshost' (22)
+01-06-2013 19:06:35 - SQLSTATE[HY000] [2005] Unknown MySQL server host 'localshost' (22)
